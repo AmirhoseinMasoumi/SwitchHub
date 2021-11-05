@@ -7,10 +7,10 @@ SwitchHub is a USB 2.0 Hub which has a button to switch between 2 different syst
 - Single push button for switching between 2 different systems.           
   
                               
-![Tilted](https://github.com/AmirhoseinMa/SwitchHub/blob/main/Assets/Tilted.png)
+![Tilted](https://github.com/AmirhoseinMa/SwitchHub/blob/main/Assets/Images/Tilted.png)
                               
 
-![Front](https://github.com/AmirhoseinMa/SwitchHub/blob/main/Assets/Front.png)
+![Front](https://github.com/AmirhoseinMasoumi/SwitchHub/blob/main/Assets/Images/Front.png)
 
                     
-![Layers](https://github.com/AmirhoseinMa/SwitchHub/blob/main/Assets/Layers.png)
+![Layers](https://github.com/AmirhoseinMa/SwitchHub/blob/main/Assets/Images/Layers.png)
